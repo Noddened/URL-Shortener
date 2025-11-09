@@ -1,0 +1,1 @@
+// Прописать при сборке CONFIG_PATH=./config/local.yaml 
